@@ -15,3 +15,17 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+backups/
+bdix-bangladesh-audit.txt
+bdix-bangladesh-working.csv
+bdix-bangladesh-working.m3u
+bdix_verify.ps1
+bdix_verify.py
+bdix_verify_opt.py
+repair_bd_complete.py
+fix_bd_identity_and_sources.py
+probe_bd_missing_public_candidates.py
+probe_bd_missing_wave2.py
+generate_bd_playlist.py
+reports/bd-playlist-summary.json
+reports/bd-playlist-test-results.csv

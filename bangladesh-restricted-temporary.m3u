@@ -1,0 +1,47 @@
+#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Restricted",Bangladesh | ATN News [RESTRICTED]
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="AnandaTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Ananda TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Asian TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTVNews.bd" group-title="Bangladesh | Restricted",Bangladesh | BTV News [RESTRICTED]
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+#EXTINF:-1 tvg-id="BanglaTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Bangla TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BijoyTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Bijoy TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/bijoytv/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel9.bd" group-title="Bangladesh | Restricted",Bangladesh | Channel 9 [RESTRICTED]
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
+#EXTINF:-1 tvg-id="ChannelS.bd" group-title="Bangladesh | Restricted",Bangladesh | Channel S [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Channeli.bd" group-title="Bangladesh | Restricted",Bangladesh | Channel i [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
+#EXTINF:-1 tvg-id="DBCNews.bd" group-title="Bangladesh | Restricted",Bangladesh | DBC News [RESTRICTED]
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
+#EXTINF:-1 tvg-id="DeshTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Desh TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Ekattor TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EkhonTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Ekhon TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Global TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/globaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Independent TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IslamicTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Islamic TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JamunaTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Jamuna TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MohonaTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Mohona TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieBangla.bd" group-title="Bangladesh | Restricted",Bangladesh | Movie Bangla [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.bd" group-title="Bangladesh | Restricted",Bangladesh | NTV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/n_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NexusTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Nexus TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RajdhaniTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Rajdhani TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SomoyTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Somoy TV [RESTRICTED]
+https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8

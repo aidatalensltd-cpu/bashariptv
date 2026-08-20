@@ -1,0 +1,884 @@
+{
+  "9XM": {
+    "channel": "9XM",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "ATN Bangla": {
+    "channel": "ATN Bangla",
+    "candidate_count": 5,
+    "working_count": 2,
+    "working_urls": [
+      "http://tvsen5.aynaott.com/atnbangla/index.m3u8",
+      "http://tvsen5.aynascope.net/atnbangla/index.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 3,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "ATN Islamic TV": {
+    "channel": "ATN Islamic TV",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "ATN Music": {
+    "channel": "ATN Music",
+    "candidate_count": 2,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 2,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "ATN News": {
+    "channel": "ATN News",
+    "candidate_count": 9,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 7,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Ananda TV": {
+    "channel": "Ananda TV",
+    "candidate_count": 6,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 4,
+    "html_count": 0,
+    "unknown_count": 1,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Asian TV": {
+    "channel": "Asian TV",
+    "candidate_count": 7,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 6,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Azan TV": {
+    "channel": "Azan TV",
+    "candidate_count": 1,
+    "working_count": 1,
+    "working_urls": [
+      "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "BTV Chattogram": {
+    "channel": "BTV Chattogram",
+    "candidate_count": 4,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 4,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "BTV National": {
+    "channel": "BTV National",
+    "candidate_count": 3,
+    "working_count": 2,
+    "working_urls": [
+      "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
+      "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "BTV News": {
+    "channel": "BTV News",
+    "candidate_count": 2,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "BTV World": {
+    "channel": "BTV World",
+    "candidate_count": 11,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 10,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Bangla TV": {
+    "channel": "Bangla TV",
+    "candidate_count": 6,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 5,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Banglavision": {
+    "channel": "Banglavision",
+    "candidate_count": 3,
+    "working_count": 1,
+    "working_urls": [
+      "https://tvsen5.aynaott.com/banglavision/index.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 2,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Bijoy TV": {
+    "channel": "Bijoy TV",
+    "candidate_count": 6,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 5,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Boishakhi TV": {
+    "channel": "Boishakhi TV",
+    "candidate_count": 3,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 3,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "CHD News24": {
+    "channel": "CHD News24",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Change TV": {
+    "channel": "Change TV",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Channel 1": {
+    "channel": "Channel 1",
+    "candidate_count": 2,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Channel 24": {
+    "channel": "Channel 24",
+    "candidate_count": 7,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 6,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Channel 9": {
+    "channel": "Channel 9",
+    "candidate_count": 4,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 2,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Channel I News": {
+    "channel": "Channel I News",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Channel S": {
+    "channel": "Channel S",
+    "candidate_count": 5,
+    "working_count": 1,
+    "working_urls": [
+      "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
+    ],
+    "restricted_count": 1,
+    "offline_count": 3,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Channel i": {
+    "channel": "Channel i",
+    "candidate_count": 5,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 4,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Colors Bangla": {
+    "channel": "Colors Bangla",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "DBC News": {
+    "channel": "DBC News",
+    "candidate_count": 7,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 5,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "DHOOM TV": {
+    "channel": "DHOOM TV",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Deepto TV": {
+    "channel": "Deepto TV",
+    "candidate_count": 1,
+    "working_count": 1,
+    "working_urls": [
+      "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Desh TV": {
+    "channel": "Desh TV",
+    "candidate_count": 2,
+    "working_count": 1,
+    "working_urls": [
+      "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+    ],
+    "restricted_count": 1,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Deshbandhu TV": {
+    "channel": "Deshbandhu TV",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Deshe Bideshe": {
+    "channel": "Deshe Bideshe",
+    "candidate_count": 1,
+    "working_count": 1,
+    "working_urls": [
+      "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Dhoom TV": {
+    "channel": "Dhoom TV",
+    "candidate_count": 2,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 2,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Ekattor TV": {
+    "channel": "Ekattor TV",
+    "candidate_count": 16,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 13,
+    "html_count": 2,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Ekhon TV": {
+    "channel": "Ekhon TV",
+    "candidate_count": 3,
+    "working_count": 1,
+    "working_urls": [
+      "https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8"
+    ],
+    "restricted_count": 1,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Ekushey TV": {
+    "channel": "Ekushey TV",
+    "candidate_count": 3,
+    "working_count": 1,
+    "working_urls": [
+      "https://ekusheyserver.com/etvlivesn.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 2,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "GAN BANGLA TV": {
+    "channel": "GAN BANGLA TV",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Gan Bangla TV": {
+    "channel": "Gan Bangla TV",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Gazi TV": {
+    "channel": "Gazi TV",
+    "candidate_count": 5,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 5,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Global TV": {
+    "channel": "Global TV",
+    "candidate_count": 3,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 2,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Green TV": {
+    "channel": "Green TV",
+    "candidate_count": 6,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 6,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "HerNet TV": {
+    "channel": "HerNet TV",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Independent TV": {
+    "channel": "Independent TV",
+    "candidate_count": 8,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 7,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Islamic TV": {
+    "channel": "Islamic TV",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Ja TV": {
+    "channel": "Ja TV",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Jagoron TV": {
+    "channel": "Jagoron TV",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Jagoroni TV": {
+    "channel": "Jagoroni TV",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Jamuna TV": {
+    "channel": "Jamuna TV",
+    "candidate_count": 5,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 4,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Maasranga TV": {
+    "channel": "Maasranga TV",
+    "candidate_count": 4,
+    "working_count": 3,
+    "working_urls": [
+      "http://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+      "http://tvsen5.aynascope.net/maasrangatv/index.m3u8",
+      "https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Madani Channel Bangla": {
+    "channel": "Madani Channel Bangla",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "MeTV Bangladesh": {
+    "channel": "MeTV Bangladesh",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Mohona TV": {
+    "channel": "Mohona TV",
+    "candidate_count": 7,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 6,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Movie Bangla": {
+    "channel": "Movie Bangla",
+    "candidate_count": 5,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 3,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Music Bangla": {
+    "channel": "Music Bangla",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "My TV": {
+    "channel": "My TV",
+    "candidate_count": 5,
+    "working_count": 1,
+    "working_urls": [
+      "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 4,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "NAN TV": {
+    "channel": "NAN TV",
+    "candidate_count": 2,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 2,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "NTV": {
+    "channel": "NTV",
+    "candidate_count": 4,
+    "working_count": 1,
+    "working_urls": [
+      "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+    ],
+    "restricted_count": 1,
+    "offline_count": 2,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Nagorik TV": {
+    "channel": "Nagorik TV",
+    "candidate_count": 8,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 7,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "News21 Bangla": {
+    "channel": "News21 Bangla",
+    "candidate_count": 1,
+    "working_count": 1,
+    "working_urls": [
+      "http://103.190.133.68:1935/news21live/live/playlist.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "News24": {
+    "channel": "News24",
+    "candidate_count": 8,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 8,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Nexus TV": {
+    "channel": "Nexus TV",
+    "candidate_count": 5,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 1,
+    "offline_count": 4,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Nick": {
+    "channel": "Nick",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Peace TV Bangla": {
+    "channel": "Peace TV Bangla",
+    "candidate_count": 1,
+    "working_count": 1,
+    "working_urls": [
+      "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Probashi TV News": {
+    "channel": "Probashi TV News",
+    "candidate_count": 1,
+    "working_count": 1,
+    "working_urls": [
+      "http://158.69.24.53:8080/probashi_tv/index.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "RTV": {
+    "channel": "RTV",
+    "candidate_count": 5,
+    "working_count": 1,
+    "working_urls": [
+      "http://tvsen5.aynascope.net/RtvHD/index.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 4,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Rajdhani TV": {
+    "channel": "Rajdhani TV",
+    "candidate_count": 3,
+    "working_count": 1,
+    "working_urls": [
+      "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+    ],
+    "restricted_count": 1,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Ruposhi Bangla": {
+    "channel": "Ruposhi Bangla",
+    "candidate_count": 4,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 3,
+    "html_count": 0,
+    "unknown_count": 1,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "SA TV": {
+    "channel": "SA TV",
+    "candidate_count": 15,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 14,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "SRK TV": {
+    "channel": "SRK TV",
+    "candidate_count": 3,
+    "working_count": 1,
+    "working_urls": [
+      "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 1,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Sangeet Bangla": {
+    "channel": "Sangeet Bangla",
+    "candidate_count": 3,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 3,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Sangsad TV": {
+    "channel": "Sangsad TV",
+    "candidate_count": 8,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 8,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Shobuj Prime TV": {
+    "channel": "Shobuj Prime TV",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Somoy TV": {
+    "channel": "Somoy TV",
+    "candidate_count": 5,
+    "working_count": 1,
+    "working_urls": [
+      "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8"
+    ],
+    "restricted_count": 1,
+    "offline_count": 3,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Star News": {
+    "channel": "Star News",
+    "candidate_count": 2,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 2,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "T Sports": {
+    "channel": "T Sports",
+    "candidate_count": 4,
+    "working_count": 1,
+    "working_urls": [
+      "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+    ],
+    "restricted_count": 0,
+    "offline_count": 3,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Voice TV Bangla": {
+    "channel": "Voice TV Bangla",
+    "candidate_count": 0,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 0,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  },
+  "Vokta TV": {
+    "channel": "Vokta TV",
+    "candidate_count": 1,
+    "working_count": 0,
+    "working_urls": [],
+    "restricted_count": 0,
+    "offline_count": 1,
+    "html_count": 0,
+    "unknown_count": 0,
+    "tested_at": "2026-08-20T14:29:07"
+  }
+}

@@ -1,0 +1,11 @@
+BANGLADESH PUBLIC CANDIDATE PROBE — WAVE 2
+Generated: 2026-08-20T14:29:07
+Authorized root: d:/bashariptv
+Backup: D:\bashariptv\backups\bd-public-wave2-20260820-142907
+New candidates added: 0
+
+Policy:
+- Public/open URLs only.
+- No credentials, MAC/device IDs, cookies, DRM bypass, or subscription bypass used.
+- AKASH GO/GPCDN protected endpoints were not added in this wave.
+- Public reachability does not establish redistribution rights.
