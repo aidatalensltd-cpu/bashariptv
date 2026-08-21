@@ -1,547 +1,69 @@
 #EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
-#EXTINF:-1 tvg-id="9XM.bd" group-title="Bangladesh | Offline",Bangladesh | 9XM [OFFLINE]
-http://bdiptv.net:8080/9XM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd" group-title="Bangladesh | General",Bangladesh | ATN Bangla
-http://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd" group-title="Bangladesh | General",Bangladesh | ATN Bangla - Fallback 1
-http://tvsen5.aynascope.net/atnbangla/index.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd" group-title="Bangladesh | Offline",Bangladesh | ATN Bangla [OFFLINE]
-http://27.147.156.14:1935/ATN-Bangla/ATN-Bangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd" group-title="Bangladesh | Offline",Bangladesh | ATN Bangla [OFFLINE]
-http://bdiptv.net:8080/ATNBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd" group-title="Bangladesh | Offline",Bangladesh | ATN Bangla [OFFLINE]
-http://bdiptv.net:8080/ATNBangla/tracks-v1a1/mono.m3u8?token=e837c0ecd2fd40a8ac024310fb52d32f15f16fe2-f5df9af35f9842589936263e5f3cc96f-1629050874-1629040074
-#EXTINF:-1 tvg-id="ATNIslamicTV.bd" group-title="Bangladesh | Offline",Bangladesh | ATN Islamic TV [OFFLINE]
-http://bdiptv.net:8080/ATNIslamic/tracks-v1a1/mono.m3u8?token=7642bd34cd6f02354b10a62a73c2b9fa5053984f-8f8aa6e150fc7be5e4b5c3e2041fb751-1629038379-1629027579
-#EXTINF:-1 tvg-id="ATNMusic.bd" group-title="Bangladesh | Offline",Bangladesh | ATN Music [OFFLINE]
-http://bdiptv.net:8080/ATNMusic/tracks-v1a1/mono.m3u8?token=e14ad3b0039d83ca9c4d066512571791c4bdbe2b-61a949d6d2b0a18c096858aeb70a8415-1629037677-1629026877
-#EXTINF:-1 tvg-id="ATNMusic.bd" group-title="Bangladesh | Offline",Bangladesh | ATN Music [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Offline",Bangladesh | ATN News [OFFLINE]
-http://103.175.242.10:8080/19-Atnnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Offline",Bangladesh | ATN News [OFFLINE]
-http://27.147.156.14:1935/ATN-News/ATN-News.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Html Only",Bangladesh | ATN News [HTML ONLY]
-http://bapatv.live:8080/atnnews/index.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Offline",Bangladesh | ATN News [OFFLINE]
-http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Offline",Bangladesh | ATN News [OFFLINE]
-http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8?token=ad90275e8c90c9d538ba0cf3044d5d3bf2c58c91-dccb8dca6705845fd340a8bed5e353db-1629037499-1629026699
-#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Offline",Bangladesh | ATN News [OFFLINE]
-http://tvsen5.aynaott.com/atnnews/index.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Offline",Bangladesh | ATN News [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Restricted",Bangladesh | ATN News [RESTRICTED]
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" group-title="Bangladesh | Offline",Bangladesh | ATN News [OFFLINE]
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ananda TV [OFFLINE]
+#EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="Bangladesh",Bangladesh | Aamar Bangla (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="Bangladesh",Bangladesh | Ananda TV (480p)
 http://103.99.249.139/anandatv/index.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ananda TV [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMdEJCDBWEVN3PTOmdFlaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" group-title="Bangladesh | Unknown",Bangladesh | Ananda TV [UNKNOWN]
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ananda TV [OFFLINE]
-https://bd.jagobd.com:444/live-orgin/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Ananda TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8
-#EXTINF:-1 tvg-id="AnandaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ananda TV [OFFLINE]
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd" group-title="Bangladesh | Offline",Bangladesh | Asian TV [OFFLINE]
-http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd" group-title="Bangladesh | Offline",Bangladesh | Asian TV [OFFLINE]
-http://209.126.120.153/hls/asiantv.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd" group-title="Bangladesh | Offline",Bangladesh | Asian TV [OFFLINE]
-http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Asian TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd" group-title="Bangladesh | Offline",Bangladesh | Asian TV [OFFLINE]
-https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd" group-title="Bangladesh | Offline",Bangladesh | Asian TV [OFFLINE]
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd" group-title="Bangladesh | Offline",Bangladesh | Asian TV [OFFLINE]
-https://tvsen5.aynaott.com/asian/index.m3u8
-#EXTINF:-1 tvg-id="AzanTV.bd" group-title="Bangladesh | General",Bangladesh | Azan TV
+#EXTINF:-1 tvg-id="ATNBangla.bd@SD" tvg-logo="https://i.imgur.com/K1HmMRz.png" group-title="Bangladesh",Bangladesh | ATN Bangla (720p)
+http://tvsen5.aynascope.net/atnbangla/index.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" group-title="Bangladesh",Bangladesh | ATN Music (360p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AzanTV.ca@SD" tvg-logo="https://i.imgur.com/JlqS6I4.jpeg" group-title="Bangladesh",Bangladesh | Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd" group-title="Bangladesh | Offline",Bangladesh | BTV Chattogram [OFFLINE]
-http://210.4.72.204:1935/BTVChattogram/BTVChattogram.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd" group-title="Bangladesh | Offline",Bangladesh | BTV Chattogram [OFFLINE]
-http://27.147.156.14:1935/BTV_Chattogram/BTV_Chattogram.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd" group-title="Bangladesh | Offline",Bangladesh | BTV Chattogram [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd" group-title="Bangladesh | Offline",Bangladesh | BTV Chattogram [OFFLINE]
-https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
-#EXTINF:-1 tvg-id="BTVNational.bd" group-title="Bangladesh | Government",Bangladesh | BTV National
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BTVNational.bd" group-title="Bangladesh | Government",Bangladesh | BTV National - Fallback 1
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="BTVNational.bd" group-title="Bangladesh | Offline",Bangladesh | BTV National [OFFLINE]
-http://27.147.156.14:1935/BTV_NAT/BTV_NAT.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVNews.bd" group-title="Bangladesh | Offline",Bangladesh | BTV News [OFFLINE]
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
-#EXTINF:-1 tvg-id="BTVNews.bd" group-title="Bangladesh | Restricted",Bangladesh | BTV News [RESTRICTED]
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-http://103.106.2.149:13456/btv_world.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/96.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-http://103.205.133.14/hls/btvworld.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-http://103.205.133.19/hls/btvworld.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-http://103.205.133.42:1935/local/btv_world_720/index.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-https://bol.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Offline",Bangladesh | BTV World [OFFLINE]
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" group-title="Bangladesh | Html Only",Bangladesh | BTV World [HTML ONLY]
-https://play.google.com/store/apps/details?id=cm.btv.world
-#EXTINF:-1 tvg-id="BanglaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bangla TV [OFFLINE]
-http://103.205.133.42:1935/local/bangla_tv_hd_720/index.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bangla TV [OFFLINE]
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Bangla TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bangla TV [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bangla TV [OFFLINE]
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bangla TV [OFFLINE]
-https://tvsen5.aynaott.com/banglatv/index.m3u8
-#EXTINF:-1 tvg-id="Banglavision.bd" group-title="Bangladesh | General",Bangladesh | Banglavision
+#EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="Bangladesh",Bangladesh | Bangla Vision (720p)
 https://tvsen5.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1 tvg-id="Banglavision.bd" group-title="Bangladesh | Offline",Bangladesh | Banglavision [OFFLINE]
-http://bdiptv.net:8080/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Banglavision.bd" group-title="Bangladesh | Offline",Bangladesh | Banglavision [OFFLINE]
-http://bdiptv.net:8080/BanglaVision/tracks-v1a1/mono.m3u8?token=50674ec7c70ce1e32fa5f6d49cba96a8616933a8-9627967f4af3d1ceec789f17aba11eac-1629038554-1629027754
-#EXTINF:-1 tvg-id="BijoyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bijoy TV [OFFLINE]
-http://103.175.242.10:8080/hls/bijoy/index.m3u8
-#EXTINF:-1 tvg-id="BijoyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bijoy TV [OFFLINE]
-http://ddn.amrbd.com:8081/live/bijoytv/playlist.m3u8
-#EXTINF:-1 tvg-id="BijoyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bijoy TV [OFFLINE]
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="BijoyTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Bijoy TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/bijoytv/playlist.m3u8
-#EXTINF:-1 tvg-id="BijoyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bijoy TV [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BijoyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Bijoy TV [OFFLINE]
-https://tvsen5.aynaott.com/tv/index.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd" group-title="Bangladesh | Offline",Bangladesh | Boishakhi TV [OFFLINE]
-http://bdiptv.net:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd" group-title="Bangladesh | Offline",Bangladesh | Boishakhi TV [OFFLINE]
-http://bdiptv.net:8080/BoishakhiTV/tracks-v1a1/mono.m3u8?token=dc09b7ea26bc42430b615c265af82a464920644b-5d13b48d0eca00e19659012c35336895-1629038442-1629027642
-#EXTINF:-1 tvg-id="BoishakhiTV.bd" group-title="Bangladesh | Offline",Bangladesh | Boishakhi TV [OFFLINE]
+#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD" tvg-logo="https://i.imgur.com/gxL05Y4.png" group-title="Bangladesh",Bangladesh | Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-# NO_STREAM_CANDIDATE: Bangladesh | CHD News24 [NOT VERIFIED]
-# NO_STREAM_CANDIDATE: Bangladesh | Change TV [NOT VERIFIED]
-#EXTINF:-1 tvg-id="Channel1.bd" group-title="Bangladesh | Offline",Bangladesh | Channel 1 [OFFLINE]
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Channel1.bd" group-title="Bangladesh | Html Only",Bangladesh | Channel 1 [HTML ONLY]
-https://channelone.news/
-#EXTINF:-1 tvg-id="Channel24.bd" group-title="Bangladesh | Html Only",Bangladesh | Channel 24 [HTML ONLY]
-http://bapatv.live:8080/hls/channel24/index.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" group-title="Bangladesh | Offline",Bangladesh | Channel 24 [OFFLINE]
-http://bdiptv.net:8080/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" group-title="Bangladesh | Offline",Bangladesh | Channel 24 [OFFLINE]
-http://bdiptv.net:8080/Channel24/tracks-v1a1/mono.m3u8?token=d95e842549605a8590e639513ee6acf198c496e1-c2c86ee9477b26892135f8499ffb67d1-1629038623-1629027823
-#EXTINF:-1 tvg-id="Channel24.bd" group-title="Bangladesh | Offline",Bangladesh | Channel 24 [OFFLINE]
-https://bd.jagobd.com:444/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" group-title="Bangladesh | Offline",Bangladesh | Channel 24 [OFFLINE]
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" group-title="Bangladesh | Offline",Bangladesh | Channel 24 [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" group-title="Bangladesh | Offline",Bangladesh | Channel 24 [OFFLINE]
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" group-title="Bangladesh | Offline",Bangladesh | Channel 9 [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" group-title="Bangladesh | Restricted",Bangladesh | Channel 9 [RESTRICTED]
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" group-title="Bangladesh | Offline",Bangladesh | Channel 9 [OFFLINE]
-https://tvsen5.aynaott.com/channel9/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" group-title="Bangladesh | Html Only",Bangladesh | Channel 9 [HTML ONLY]
-https://www.channelninebd.tv/live/
-#EXTINF:-1 tvg-id="ChannelINews.bd" group-title="Bangladesh | Offline",Bangladesh | Channel I News [OFFLINE]
-https://tvsen6.aynaott.com/channelinews/index.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" group-title="Bangladesh | General",Bangladesh | Channel S
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" group-title="Bangladesh | Offline",Bangladesh | Channel S [OFFLINE]
+#EXTINF:-1 tvg-id="ChannelS.bd@SD" tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="Bangladesh",Bangladesh | Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" group-title="Bangladesh | Offline",Bangladesh | Channel S [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI6/channels.stream/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" group-title="Bangladesh | Restricted",Bangladesh | Channel S [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelS.bd" group-title="Bangladesh | Offline",Bangladesh | Channel S [OFFLINE]
-https://tvsen5.aynaott.com/channels/index.m3u8
-#EXTINF:-1 tvg-id="Channeli.bd" group-title="Bangladesh | Offline",Bangladesh | Channel i [OFFLINE]
-http://tvsen5.aynaott.com/channeli/index.m3u8
-#EXTINF:-1 tvg-id="Channeli.bd" group-title="Bangladesh | Offline",Bangladesh | Channel i [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Channeli.bd" group-title="Bangladesh | Offline",Bangladesh | Channel i [OFFLINE]
-https://bd.jagobd.com:444/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="Channeli.bd" group-title="Bangladesh | Restricted",Bangladesh | Channel i [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
-#EXTINF:-1 tvg-id="Channeli.bd" group-title="Bangladesh | Offline",Bangladesh | Channel i [OFFLINE]
-https://tvsen6.aynaott.com/channeli/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Colors Bangla [OFFLINE]
-http://bdiptv.net:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" group-title="Bangladesh | Html Only",Bangladesh | DBC News [HTML ONLY]
-http://bapatv.live:8080/dbc/index.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" group-title="Bangladesh | Offline",Bangladesh | DBC News [OFFLINE]
-http://bdiptv.net:8080/DBCNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" group-title="Bangladesh | Offline",Bangladesh | DBC News [OFFLINE]
-http://bdiptv.net:8080/DBCNews/tracks-v1a1/mono.m3u8?token=393a7b04180d02bdb43ec4c66b5afb96da3ff459-9c344517b65a41a2d058024285703f1b-1629038940-1629028140
-#EXTINF:-1 tvg-id="DBCNews.bd" group-title="Bangladesh | Offline",Bangladesh | DBC News [OFFLINE]
+#EXTINF:-1 tvg-id="ChannelS.uk@SD" tvg-logo="https://i.imgur.com/hJxFLvF.png" group-title="Bangladesh",Bangladesh | Channel S (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DBCNews.bd@SD" tvg-logo="https://i.imgur.com/Qbt6q4z.png" group-title="Bangladesh",Bangladesh | DBC News (480p)
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" group-title="Bangladesh | Offline",Bangladesh | DBC News [OFFLINE]
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" group-title="Bangladesh | Restricted",Bangladesh | DBC News [RESTRICTED]
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" group-title="Bangladesh | Offline",Bangladesh | DBC News [OFFLINE]
-https://tempe.jagobd.com:444/live-orgin/dbcnews.stream_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="DHOOMTV.bd" group-title="Bangladesh | Offline",Bangladesh | DHOOM TV [OFFLINE]
-http://bdiptv.net:8080/Dhoom/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DeeptoTV.bd" group-title="Bangladesh | General",Bangladesh | Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-id="DeshTV.bd" group-title="Bangladesh | General",Bangladesh | Desh TV
+#EXTINF:-1 tvg-id="DeshiTV.ca@SD" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="Bangladesh",Bangladesh | Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="DeshTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Desh TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8
-# NO_STREAM_CANDIDATE: Bangladesh | Deshbandhu TV [NOT VERIFIED]
-#EXTINF:-1 tvg-id="DesheBideshe.bd" group-title="Bangladesh | General",Bangladesh | Deshe Bideshe
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-id="DhoomTV.bd" group-title="Bangladesh | Offline",Bangladesh | Dhoom TV [OFFLINE]
-http://bdiptv.net:8080/Dhoom/tracks-v1a1/mono.m3u8?token=c9d2debc317b68769fc5b1c17e77afc590867bcc-4cac908307d72642c80277a566b0530c-1629049346-1629038546
-#EXTINF:-1 tvg-id="DhoomTV.bd" group-title="Bangladesh | Offline",Bangladesh | Dhoom TV [OFFLINE]
-https://tvsen5.aynaott.com/dhoom/index.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/157.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-http://103.135.208.14/live/ibox/bd/88.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Html Only",Bangladesh | Ekattor TV [HTML ONLY]
-http://bapatv.live:8080/ekattor/index.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-http://bdiptv.net:8080/EkattorTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-http://bdiptv.net:8080/EkattorTV/tracks-v1a1/mono.m3u8?token=a17ece4f1b0c147daf574099241350943dae9ed1-883e9d39deec427d24beb1383473ffe6-1629041684-1629030884
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-http://ddn.amrbd.com:8081/live/ekattor-bd/playlist.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Html Only",Bangladesh | Ekattor TV [HTML ONLY]
-http://pioneer.anytv.live:8080/ekattor/index.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-http://tv.ebox.live:8080/live/ekattor1.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-http://tvsen5.aynaott.com/ekattortv/index.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Ekattor TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-https://bol.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekattor TV [OFFLINE]
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="EkhonTV.bd" group-title="Bangladesh | News",Bangladesh | Ekhon TV
-https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-id="EkhonTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Ekhon TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EkhonTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekhon TV [OFFLINE]
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Bangladesh",Bangladesh | Disney International HD (1080p)
+http://149.71.34.166:8002/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="EkhonTV.bd@SD" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Bangladesh",Bangladesh | Ekhon TV (1080p)
 https://tplay.live/out/bangladesh/ekhontv.index.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd" group-title="Bangladesh | General",Bangladesh | Ekushey TV
+#EXTINF:-1 tvg-id="EkusheyTV.bd@SD" tvg-logo="https://i.imgur.com/lRpkGHj.png" group-title="Bangladesh",Bangladesh | Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekushey TV [OFFLINE]
-http://bdiptv.net:8080/EkusheyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Ekushey TV [OFFLINE]
-http://bdiptv.net:8080/EkusheyTv/tracks-v1a1/mono.m3u8?token=b1799679c0bec2e68495320171c9a7e334fe1624-e645f7d55c5466385b22bc401fdb8380-1629041839-1629031039
-#EXTINF:-1 tvg-id="GANBANGLATV.bd" group-title="Bangladesh | Offline",Bangladesh | GAN BANGLA TV [OFFLINE]
-http://bdiptv.net:8080/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GanBanglaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Gan Bangla TV [OFFLINE]
-http://bdiptv.net:8080/GaanBangla/tracks-v1a1/mono.m3u8?token=aa56b1da0f052c67ac4597a26c8bfed5f303f91c-b4781292bf4f6843410374ccdaa58c9c-1629045647-1629034847
-#EXTINF:-1 tvg-id="GaziTV.bd" group-title="Bangladesh | Offline",Bangladesh | Gazi TV [OFFLINE]
-http://bdiptv.net:8080/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd" group-title="Bangladesh | Offline",Bangladesh | Gazi TV [OFFLINE]
-http://bdiptv.net:8080/GaziTV/tracks-v1a1/mono.m3u8?token=495f30dde110980e0c0ca6350e80dcba9a865a2a-357de4a9e67913e6713f39eab2201714-1629041964-1629031164
-#EXTINF:-1 tvg-id="GaziTV.bd" group-title="Bangladesh | Offline",Bangladesh | Gazi TV [OFFLINE]
+#EXTINF:-1 tvg-id="GaziTV.bd@SD" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="Bangladesh",Bangladesh | Gazi TV (1080p)
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd" group-title="Bangladesh | Offline",Bangladesh | Gazi TV [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMdEJCDBWEVN3PTOmdFlaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd" group-title="Bangladesh | Offline",Bangladesh | Gazi TV [OFFLINE]
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.bd" group-title="Bangladesh | Offline",Bangladesh | Global TV [OFFLINE]
-http://103.175.242.10:8080/hls/globaltv/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.bd" group-title="Bangladesh | Offline",Bangladesh | Global TV [OFFLINE]
-http://103.175.242.10:8080/hls/globaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Global TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/globaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd" group-title="Bangladesh | Offline",Bangladesh | Green TV [OFFLINE]
-http://bd.jagobd.com:1931/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd" group-title="Bangladesh | Offline",Bangladesh | Green TV [OFFLINE]
-http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd" group-title="Bangladesh | Offline",Bangladesh | Green TV [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd" group-title="Bangladesh | Offline",Bangladesh | Green TV [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd" group-title="Bangladesh | Offline",Bangladesh | Green TV [OFFLINE]
+#EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Bangladesh",Bangladesh | Green TV (1080p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd" group-title="Bangladesh | Offline",Bangladesh | Green TV [OFFLINE]
-https://tvsen5.aynaott.com/greentv/index.m3u8
-# NO_STREAM_CANDIDATE: Bangladesh | HerNet TV [NOT VERIFIED]
-#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh | Offline",Bangladesh | Independent TV [OFFLINE]
-http://118.179.35.11/hls/ITV2434BuA/05.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh | Offline",Bangladesh | Independent TV [OFFLINE]
-http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh | Offline",Bangladesh | Independent TV [OFFLINE]
-http://bdiptv.net:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=b9c7af5f632fd506bdbb9877d199ab3bd988b2e8-581c380c43930557bed3526be2dd76f9-1629044670-1629033870
-#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh | Offline",Bangladesh | Independent TV [OFFLINE]
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Independent TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh | Offline",Bangladesh | Independent TV [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh | Offline",Bangladesh | Independent TV [OFFLINE]
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd" group-title="Bangladesh | Offline",Bangladesh | Independent TV [OFFLINE]
-https://tvsen5.aynaott.com/independentsg/index.m3u8
-#EXTINF:-1 tvg-id="IslamicTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Islamic TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8
-# NO_STREAM_CANDIDATE: Bangladesh | Ja TV [NOT VERIFIED]
-# NO_STREAM_CANDIDATE: Bangladesh | Jagoron TV [NOT VERIFIED]
-# NO_STREAM_CANDIDATE: Bangladesh | Jagoroni TV [NOT VERIFIED]
-#EXTINF:-1 tvg-id="JamunaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Jamuna TV [OFFLINE]
-http://103.252.220.41:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JamunaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Jamuna TV [OFFLINE]
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="JamunaTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Jamuna TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JamunaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Jamuna TV [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JamunaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Jamuna TV [OFFLINE]
-https://tvsen5.aynaott.com/jamunatv/index.m3u8
-#EXTINF:-1 tvg-id="MaasrangaTV.bd" group-title="Bangladesh | General",Bangladesh | Maasranga TV
-http://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-id="MaasrangaTV.bd" group-title="Bangladesh | General",Bangladesh | Maasranga TV - Fallback 1
+#EXTINF:-1 tvg-id="MaasrangaTV.bd@SD" tvg-logo="https://i.imgur.com/uVZJMed.png" group-title="Bangladesh",Bangladesh | Maasranga TV (720p)
 http://tvsen5.aynascope.net/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-id="MaasrangaTV.bd" group-title="Bangladesh | General",Bangladesh | Maasranga TV - Fallback 2
-https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MaasrangaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Maasranga TV [OFFLINE]
-http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Madani Channel Bangla [OFFLINE]
+#EXTINF:-1 tvg-id="MadaniChannelBangla.bd@SD" tvg-logo="https://i.imgur.com/vIJTVia.png" group-title="Bangladesh",Bangladesh | Madani Channel Bangla (1080p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-# NO_STREAM_CANDIDATE: Bangladesh | MeTV Bangladesh [NOT VERIFIED]
-#EXTINF:-1 tvg-id="MohonaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Mohona TV [OFFLINE]
-http://103.119.94.254:8000/play/6710328328/index.m3u8
-#EXTINF:-1 tvg-id="MohonaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Mohona TV [OFFLINE]
-http://bdiptv.net:8080/MohonaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MohonaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Mohona TV [OFFLINE]
-http://bdiptv.net:8080/MohonaTV/tracks-v1a1/mono.m3u8?token=9350baa9d7b374db4c32aa61e45753de50541928-8d010c005383ba06b2fae89dbf4f5fdd-1629044979-1629034179
-#EXTINF:-1 tvg-id="MohonaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Mohona TV [OFFLINE]
-http://tvsen5.aynaott.com/mohonatv/index.m3u8
-#EXTINF:-1 tvg-id="MohonaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Mohona TV [OFFLINE]
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="MohonaTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Mohona TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MohonaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Mohona TV [OFFLINE]
-https://cdn.rangdhanu.live/MohonaTV/video.m3u8
-#EXTINF:-1 tvg-id="MovieBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Movie Bangla [OFFLINE]
-http://103.252.220.41:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieBangla.bd" group-title="Bangladesh | Html Only",Bangladesh | Movie Bangla [HTML ONLY]
+#EXTINF:-1 tvg-id="MovieBangla.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="Bangladesh",Bangladesh | Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-id="MovieBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Movie Bangla [OFFLINE]
-https://bd.jagobd.com:444/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="MovieBangla.bd" group-title="Bangladesh | Restricted",Bangladesh | Movie Bangla [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Movie Bangla [OFFLINE]
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="MusicBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Music Bangla [OFFLINE]
-http://live.matribhumitv.com/music-bangla/index.m3u8
-#EXTINF:-1 tvg-id="MyTV.bd" group-title="Bangladesh | General",Bangladesh | My TV
+#EXTINF:-1 tvg-id="MyTV.bd@SD" tvg-logo="https://i.imgur.com/475qK5T.png" group-title="Bangladesh",Bangladesh | My TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTV.bd" group-title="Bangladesh | Offline",Bangladesh | My TV [OFFLINE]
-http://bdiptv.net:8080/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MyTV.bd" group-title="Bangladesh | Offline",Bangladesh | My TV [OFFLINE]
-http://bdiptv.net:8080/MyTV/tracks-v1a1/mono.m3u8?token=4fd6551183f4b0d022844784752ae2dbd441a0e4-d182156e1356c9e29dbc6b022331bbcc-1629045183-1629034383
-#EXTINF:-1 tvg-id="MyTV.bd" group-title="Bangladesh | Offline",Bangladesh | My TV [OFFLINE]
-https://mytvbangla.com/0.m3u8
-#EXTINF:-1 tvg-id="MyTV.bd" group-title="Bangladesh | Offline",Bangladesh | My TV [OFFLINE]
-https://tvsen5.aynaott.com/mytv/index.m3u8
-#EXTINF:-1 tvg-id="NANTV.bd" group-title="Bangladesh | Offline",Bangladesh | NAN TV [OFFLINE]
+#EXTINF:-1 tvg-id="NANTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="Bangladesh",Bangladesh | NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NANTV.bd" group-title="Bangladesh | Offline",Bangladesh | NAN TV [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMdEJCDBWEVN3PTOmdFlaWRtaW51aiPhnPTI6/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.bd" group-title="Bangladesh | General",Bangladesh | NTV
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1 tvg-id="NTV.bd" group-title="Bangladesh | Offline",Bangladesh | NTV [OFFLINE]
-http://bdiptv.net:8080/NTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NTV.bd" group-title="Bangladesh | Offline",Bangladesh | NTV [OFFLINE]
-http://bdiptv.net:8080/NTV/tracks-v1a1/mono.m3u8?token=d63063febcd067f9a498ebc61811254619be2a72-59d39813529cae78f51470b09c54db90-1629045410-1629034610
-#EXTINF:-1 tvg-id="NTV.bd" group-title="Bangladesh | Restricted",Bangladesh | NTV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/n_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NagorikTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nagorik TV [OFFLINE]
-http://103.119.94.254:8000/play/1373514297/index.m3u8
-#EXTINF:-1 tvg-id="NagorikTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nagorik TV [OFFLINE]
-http://103.205.133.43/hls/nagorik.m3u8
-#EXTINF:-1 tvg-id="NagorikTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nagorik TV [OFFLINE]
-http://163.172.29.246:8081/globalbd/nagoriktv/chunks.m3u8
-#EXTINF:-1 tvg-id="NagorikTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nagorik TV [OFFLINE]
-http://bdiptv.net:8080/NagorikTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NagorikTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nagorik TV [OFFLINE]
-http://bdiptv.net:8080/NagorikTV/tracks-v1a1/mono.m3u8?token=05742ad7287da6adec01420cfc502fdb0848a7d7-1bdcccde704456429d5d8e64ffd55acb-1629044887-1629034087
-#EXTINF:-1 tvg-id="NagorikTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nagorik TV [OFFLINE]
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="NagorikTV.bd" group-title="Bangladesh | Html Only",Bangladesh | Nagorik TV [HTML ONLY]
-https://nagoriktv.com/
-#EXTINF:-1 tvg-id="NagorikTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nagorik TV [OFFLINE]
-https://tvsen5.aynaott.com/nagoriktvgreen/index.m3u8
-#EXTINF:-1 tvg-id="News21Bangla.bd" group-title="Bangladesh | News",Bangladesh | News21 Bangla
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Bangladesh",Bangladesh | National Geographic HD (576p)
+http://149.71.34.166:8002/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Bangladesh",Bangladesh | National Geographic Wild HD (1080p)
+http://149.71.34.166:8002/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="News21BanglaTV.bd@SD" tvg-logo="https://i.imgur.com/ijuJfmd.png" group-title="Bangladesh",Bangladesh | News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.bd" group-title="Bangladesh | Offline",Bangladesh | News24 [OFFLINE]
-http://103.119.94.254:8000/play/6637924959/index.m3u8
-#EXTINF:-1 tvg-id="News24.bd" group-title="Bangladesh | Offline",Bangladesh | News24 [OFFLINE]
-http://103.252.220.41:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.bd" group-title="Bangladesh | Offline",Bangladesh | News24 [OFFLINE]
-http://bdiptv.net:8080/News24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="News24.bd" group-title="Bangladesh | Offline",Bangladesh | News24 [OFFLINE]
-http://bdiptv.net:8080/News24/tracks-v1a1/mono.m3u8?token=bab5c5706d2d62c69c5d0a1dad975a24d0385e13-471dc70674c5358527acd8841adb47e3-1629045260-1629034460
-#EXTINF:-1 tvg-id="News24.bd" group-title="Bangladesh | Offline",Bangladesh | News24 [OFFLINE]
-http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="News24.bd" group-title="Bangladesh | Offline",Bangladesh | News24 [OFFLINE]
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="News24.bd" group-title="Bangladesh | Offline",Bangladesh | News24 [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.bd" group-title="Bangladesh | Offline",Bangladesh | News24 [OFFLINE]
-https://tvsen5.aynaott.com/news24/index.m3u8
-#EXTINF:-1 tvg-id="NexusTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nexus TV [OFFLINE]
-http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="NexusTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nexus TV [OFFLINE]
-http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NexusTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nexus TV [OFFLINE]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NexusTV.bd" group-title="Bangladesh | Offline",Bangladesh | Nexus TV [OFFLINE]
-https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="NexusTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Nexus TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nick.bd" group-title="Bangladesh | Offline",Bangladesh | Nick [OFFLINE]
-http://bdiptv.net:8080/Nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="PeaceTVBangla.bd" group-title="Bangladesh | General",Bangladesh | Peace TV Bangla
+#EXTINF:-1 tvg-id="NTV.bd@SD" tvg-logo="https://i.imgur.com/l75bDTx.png" group-title="Bangladesh",Bangladesh | NTV (720p)
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae@SD" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Bangladesh",Bangladesh | Peace TV Bangla (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-id="ProbashiTVNews.bd" group-title="Bangladesh | News",Bangladesh | Probashi TV News
+#EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="Bangladesh",Bangladesh | Probashi TV News (1080p)
 http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTINF:-1 tvg-id="RTV.bd" group-title="Bangladesh | General",Bangladesh | RTV
-http://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:-1 tvg-id="RTV.bd" group-title="Bangladesh | Offline",Bangladesh | RTV [OFFLINE]
-http://bdiptv.net:8080/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RTV.bd" group-title="Bangladesh | Offline",Bangladesh | RTV [OFFLINE]
-http://bdiptv.net:8080/RTV/tracks-v1a1/mono.m3u8?token=7b9251ce11a7cb32eef89a989146dbed6d782b57-7260c4a586bb5a6f09c495b4c7273d09-1629045491-1629034691
-#EXTINF:-1 tvg-id="RTV.bd" group-title="Bangladesh | Offline",Bangladesh | RTV [OFFLINE]
-http://tvsen5.aynaott.com/rtvhd/index.m3u8
-#EXTINF:-1 tvg-id="RTV.bd" group-title="Bangladesh | Offline",Bangladesh | RTV [OFFLINE]
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
-#EXTINF:-1 tvg-id="RajdhaniTV.bd" group-title="Bangladesh | General",Bangladesh | Rajdhani TV
+#EXTINF:-1 tvg-id="RajdhaniTV.bd@SD" tvg-logo="https://i.imgur.com/MBm2gPz.jpeg" group-title="Bangladesh",Bangladesh | Rajdhani TV (1080p)
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 tvg-id="RajdhaniTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Rajdhani TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RajdhaniTV.bd" group-title="Bangladesh | Offline",Bangladesh | Rajdhani TV [OFFLINE]
-https://tvsen5.aynaott.com/rajdhanitv/index.m3u8
-#EXTINF:-1 tvg-id="RuposhiBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Ruposhi Bangla [OFFLINE]
-http://bdiptv.net:8080/RuposhiBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RuposhiBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Ruposhi Bangla [OFFLINE]
-http://bdiptv.net:8080/RuposhiBangla/tracks-v1a1/mono.m3u8?token=00eb9edf787c82d476ffceff47f163fea07f6311-5499a22a1082f742ab2b2f267646b0d0-1629049908-1629039108
-#EXTINF:-1 tvg-id="RuposhiBangla.bd" group-title="Bangladesh | Unknown",Bangladesh | Ruposhi Bangla [UNKNOWN]
+#EXTINF:-1 tvg-id="RTV.bd@SD" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="Bangladesh",Bangladesh | RTV (720p)
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+#EXTINF:-1 tvg-id="RupashiBanglaTV.bd@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="Bangladesh",Bangladesh | Rupashi Bangla TV (720p)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RuposhiBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Ruposhi Bangla [OFFLINE]
-https://tvsen5.aynaott.com/ruposhibangla/index.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://103.119.94.254:8000/play/9857306656/index.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://103.135.208.14/live/ibox/bd/87.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://103.175.242.10:8080/hls/satv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://103.205.133.14/hls/satv.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://103.205.133.19/hls/satv.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://163.172.29.246:8081/globalbd/satv/chunks.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://bdiptv.net:8080/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://bdiptv.net:8080/SATV/tracks-v1a1/mono.m3u8?token=58d23a574a2011ac401e7aa7358dae555aa8f32c-19feb653a9123ea06909ebcfd86b8f11-1629049280-1629038480
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-http://ddn.amrbd.com:8081/live/satv-22/playlist.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-https://bol.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-https://cdn.rangdhanu.live/SATV/video.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Offline",Bangladesh | SA TV [OFFLINE]
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" group-title="Bangladesh | Html Only",Bangladesh | SA TV [HTML ONLY]
-https://www.satv.tv/satv-live-youtube/
-#EXTINF:-1 tvg-id="SRKTV.bd" group-title="Bangladesh | General",Bangladesh | SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SRKTV.bd" group-title="Bangladesh | Html Only",Bangladesh | SRK TV [HTML ONLY]
-https://play.google.com/store/apps/details?id=com.srktvplus
-#EXTINF:-1 tvg-id="SRKTV.bd" group-title="Bangladesh | Offline",Bangladesh | SRK TV [OFFLINE]
-https://tvsen5.aynaott.com/srk/index.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Sangeet Bangla [OFFLINE]
-http://bdiptv.net:8080/SangeetBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Sangeet Bangla [OFFLINE]
-http://bdiptv.net:8080/SangeetBangla/tracks-v1a1/mono.m3u8?token=86cb70d9b8b5470888b74e922eb358686fa74d22-8369d0bbaa3b8a48b44b300511e9aaf0-1629049396-1629038596
-#EXTINF:-1 tvg-id="SangeetBangla.bd" group-title="Bangladesh | Offline",Bangladesh | Sangeet Bangla [OFFLINE]
-https://tvsen5.aynaott.com/sangeetbangla/index.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd" group-title="Bangladesh | Offline",Bangladesh | Sangsad TV [OFFLINE]
-http://103.119.94.254:8000/play/6410039758/index.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd" group-title="Bangladesh | Offline",Bangladesh | Sangsad TV [OFFLINE]
-http://210.4.72.204:1935/BTVSangsad/BTVSangsad.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd" group-title="Bangladesh | Offline",Bangladesh | Sangsad TV [OFFLINE]
-http://27.147.156.14:1935/BTVSangsad/BTVSangsad.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd" group-title="Bangladesh | Offline",Bangladesh | Sangsad TV [OFFLINE]
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd" group-title="Bangladesh | Offline",Bangladesh | Sangsad TV [OFFLINE]
-https://bol.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd" group-title="Bangladesh | Offline",Bangladesh | Sangsad TV [OFFLINE]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd" group-title="Bangladesh | Offline",Bangladesh | Sangsad TV [OFFLINE]
-https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd" group-title="Bangladesh | Offline",Bangladesh | Sangsad TV [OFFLINE]
-https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-# NO_STREAM_CANDIDATE: Bangladesh | Shobuj Prime TV [NOT VERIFIED]
-#EXTINF:-1 tvg-id="SomoyTV.bd" group-title="Bangladesh | News",Bangladesh | Somoy TV
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SomoyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Somoy TV [OFFLINE]
-http://bdiptv.net:8080/SomoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SomoyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Somoy TV [OFFLINE]
-http://bdiptv.net:8080/SomoyTv/tracks-v1a1/mono.m3u8?token=47f69bacd56361e2f60629f74abbc8a6062779e5-0da3ba0722a58aedb68d23bffae20f50-1629045575-1629044775
-#EXTINF:-1 tvg-id="SomoyTV.bd" group-title="Bangladesh | Offline",Bangladesh | Somoy TV [OFFLINE]
-http://tvsen5.aynaott.com/somoy_tv/index.m3u8
-#EXTINF:-1 tvg-id="SomoyTV.bd" group-title="Bangladesh | Restricted",Bangladesh | Somoy TV [RESTRICTED]
-https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="StarNews.bd" group-title="Bangladesh | Html Only",Bangladesh | Star News [HTML ONLY]
-https://itcnbd.live/
-#EXTINF:-1 tvg-id="StarNews.bd" group-title="Bangladesh | Html Only",Bangladesh | Star News [HTML ONLY]
-https://www.starnews.com.bd/tv
-#EXTINF:-1 tvg-id="TSports.bd" group-title="Bangladesh | Sports",Bangladesh | T Sports
+#EXTINF:-1 tvg-id="TSports.bd@SD" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Bangladesh",Bangladesh | T Sports (1080p)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-id="TSports.bd" group-title="Bangladesh | Offline",Bangladesh | T Sports [OFFLINE]
-http://bdiptv.net:8080/TSportsSD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TSports.bd" group-title="Bangladesh | Offline",Bangladesh | T Sports [OFFLINE]
-http://bdiptv.net:8080/TSportsSD/tracks-v1a1/mono.m3u8?token=c22746c538ef9b4cc7ab66dc253f2e8f4b31c9e7-d5b543f5c1ac478191b0a0fa94301d1e-1629049319-1629038519
-#EXTINF:-1 tvg-id="TSports.bd" group-title="Bangladesh | Offline",Bangladesh | T Sports [OFFLINE]
-http://tvsen5.aynaott.com/tnmn5kzz8alm/index.m3u8
-# NO_STREAM_CANDIDATE: Bangladesh | Voice TV Bangla [NOT VERIFIED]
-#EXTINF:-1 tvg-id="VoktaTV.bd" group-title="Bangladesh | Offline",Bangladesh | Vokta TV [OFFLINE]
+#EXTINF:-1 tvg-id="VoktaTV.bd@SD" tvg-logo="https://i.imgur.com/szAGBCU.png" group-title="Bangladesh",Bangladesh | Vokta TV (720p)
 https://vokta.raytahost.com/live/voktatv/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Bangladesh",Bangladesh | Zee Bangla HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Bangladesh",Bangladesh | Zee Bangla Sonar (576p)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
