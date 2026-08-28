@@ -98,6 +98,8 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png" group-title="India",India | Aadinath TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
+#EXTINF:-1 tvg-id="AajKiKhabar.in@SD" tvg-logo="https://m.media-amazon.com/images/I/71q8sOMPwHL.png" group-title="India",India | Aaj Ki Khabar (1080p)
+https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="India",India | Aaj Tak HD (1080p)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="India",India | Aaj Tak (1080p)
@@ -260,8 +262,8 @@ https://cdn-1.pishow.tv/live/1059/master.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 tvg-id="BrioTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png" group-title="India",India | Brio TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8
-#EXTINF:-1 tvg-id="BRKNews.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" group-title="India",India | BRK News (576p)
-https://cdn-1.pishow.tv/live/1037/master.m3u8
+#EXTINF:-1 tvg-id="BRKNews.in@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" group-title="India",India | BRK News (720p)
+https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 #EXTINF:-1 tvg-id="BTTV.in@SD" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png" group-title="India",India | BT TV (720p)
 https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="CCV.in@SD" tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="India",India | CCV (480p)
@@ -968,6 +970,8 @@ https://cdn-2.pishow.tv/live/1383/master.m3u8
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" group-title="India",India | PMC Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+#EXTINF:-1 tvg-id="PocketFilms.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" group-title="India",India | Pocket Films
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" group-title="India",India | Polimer News (576p)
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="PolimerTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540" group-title="India",India | Polimer TV (720p)
@@ -3075,8 +3079,8 @@ http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
 #EXTINF:-1 tvg-id="ColorsMENA.in@HD" tvg-logo="https://i.imgur.com/LjNFTdC.png" group-title="International",International | Colors MENA HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="International",International | Crime + Investigation Asia HD (720p) [Geo-blocked]
-https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="International",International | Crime + Investigation Asia (1080p)
+http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="International",International | Crime + Investigation CEE
 http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="International",International | Настоящее Время (1080p)
@@ -3186,6 +3190,8 @@ http://hls127.freeott.top:8080/1muz_HD/video.m3u8
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="International",International | France 24 English (1080p)
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@EnglishHD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="International",International | France 24 English HD (1080p)
+http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="International",International | France 24 French (1080p)
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="FTV.tw@SD" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="International",International | FTV (民視) (720p) [Not 24/7]
@@ -3349,8 +3355,8 @@ https://live.nowtelly.com/now_arabic/live/playlist.m3u8
 https://nowhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NewsWorld.hk@FAST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="International",International | NewsWorld (1080p)
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="International",International | NHK World-Japan HD (1080p) [Geo-blocked]
-https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="International",International | NHK World-Japan HD (1080p)
+http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="International",International | NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="International",International | NHK World Premium (720p)
@@ -4723,6 +4729,8 @@ http://149.71.34.166:8002/play/a012/index.m3u8
 https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
 #EXTINF:-1 tvg-id="Public4KTV.np@HD" tvg-logo="https://i.imgur.com/JxEzgDP.png" group-title="Nepal",Nepal | Public 4K TV
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
+#EXTINF:-1 tvg-id="RayTVHD.np@SD" tvg-logo="https://i.imgur.com/QIkgiEn.png" group-title="Nepal",Nepal | Ray TV HD (576p)
+https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
 #EXTINF:-1 tvg-id="TVTodayJanakpur.np@SD" tvg-logo="https://i.imgur.com/5fZF69m.png" group-title="Nepal",Nepal | TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="Netherlands",Netherlands | InWonder (1080p)
@@ -6196,8 +6204,8 @@ rtmp://59.124.75.138:1935/sat/tv111
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DaAi1.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan",Taiwan | DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan",Taiwan | DaAi2 (大愛2) (720p)
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw@SD" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan",Taiwan | DaAi 2 (1080p)
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="Taiwan",Taiwan | Dali TV (大立電視台) (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-logo="https://i.imgur.com/uFDkOhV.png" group-title="Taiwan",Taiwan | EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
@@ -6216,6 +6224,8 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-id="IndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/vmk4F9u.png" group-title="Taiwan",Taiwan | Indigenous TV (720p)
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MOMOTV.tw@SD" tvg-logo="https://m.momoshop.com.tw/img/message.png" group-title="Taiwan",Taiwan | MOMO TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-id="NTDTVAsiaPacific.us@SD" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="Taiwan",Taiwan | NTD TV Asia-Pacific
 https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-id="SETNews.tw@SD" tvg-logo="https://i.imgur.com/EGVbAvJ.png" group-title="Taiwan",Taiwan | SET News (三立新聞) (1080p) [Geo-blocked]
