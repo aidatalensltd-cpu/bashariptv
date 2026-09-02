@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="Bangladesh",Bangladesh | Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="Bangladesh",Bangladesh | Ananda TV (480p)
@@ -2951,6 +2951,9 @@ https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us@SD" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="International",International | Avang TV (1080p)
 https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AXNCrime.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AXN_Crime_-_Logo.png/960px-AXN_Crime_-_Logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="International",International | AXN Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 tvg-id="AyazTV.az@SD" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="International",International | Ayaz TV (720p)
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-id="AzanTV.ca@SD" tvg-logo="https://i.imgur.com/JlqS6I4.jpeg" group-title="International",International | Azan TV
@@ -3232,8 +3235,6 @@ https://kctv.koryofront.org/stream/index.m3u8
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://streamer.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="KvartalTVInternational.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png" group-title="International",International | Kvartal TV International
-https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="International",International | Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LBCInternational.lb@SD" tvg-logo="https://i.imgur.com/h26xtUv.png" group-title="International",International | LBC International (1080p)
@@ -3385,6 +3386,8 @@ https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it@EuropeAfrica" tvg-logo="https://i.imgur.com/1nN4rEP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="International",International | Rai Italia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+#EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225" group-title="International",International | RAZ 3 International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@EUMENA" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="International",International | Red Bull TV (1080p)
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="International",International | Red Bull TV (1080p)
@@ -4712,6 +4715,10 @@ https://kctv.koryofront.org/stream/index.m3u8
 #EXTVLCOPT:http-referrer=https://kcnawatch.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@SD" tvg-logo="https://i.imgur.com/1BHJjY4.png" group-title="North Korea",North Korea | Ryongnamsan Television SD [Not 24/7]
+https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
+#EXTINF:-1 tvg-id="SportsTelevision.kp@HD" tvg-logo="https://i.imgur.com/HvFpGeH.png" group-title="North Korea",North Korea | Sports Television [Not 24/7]
+https://kctv.koryofront.org/stream/sports/index.m3u8
 #EXTINF:-1 tvg-id="AlistiqamaTV.om@SD" tvg-logo="https://i.imgur.com/2FPtYZr.png" group-title="Oman",Oman | Alistiqama TV (576p)
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Oman",Oman | Oman Sports TV (1080p) [Not 24/7]
