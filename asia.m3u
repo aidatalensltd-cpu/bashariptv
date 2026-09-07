@@ -1391,8 +1391,8 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/in
 https://cdn-2.pishow.tv/live/1522/master.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="India",India | Travelxp 4K HDR (2160p) [Geo-blocked]
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="India",India | Travelxp HD (1080p)
-http://stream.mcquack.net/451/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="India",India | Travelxp HD (1080p) [Geo-blocked]
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelxpTamil.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="India",India | Travelxp Tamil (576p)
 http://103.72.101.252:8080/live/814.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="India",India | Tunes 6 (720p)
@@ -3557,6 +3557,8 @@ https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b6
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@InternationalHD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="International",International | Trace Urban International (1080p)
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@Russia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="International",International | Travelxp Russia (1080p)
+http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="International",International | TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="International",International | TRT World HD
@@ -4219,6 +4221,8 @@ https://ntv5.mov3.co/hls/ntv.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="JOEXDTV.jp@SD" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",Japan | JOEX-DTV (540p)
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 tvg-id="JOJGDTV.jp@SD" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",Japan | JOJG-DTV (1080p)
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp@SD" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Japan",Japan | JORX-DTV
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="JOTXDTV.jp@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="Japan",Japan | JOTX-DTV
@@ -5124,6 +5128,8 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-id="Detskoekino.ru@International" tvg-logo="https://i.imgur.com/dJqFRhQ.png" group-title="Russia",Russia | Детское кино International [Not 24/7]
 https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="DetvoraPlus.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/logo-detvora.png" group-title="Russia",Russia | Detvora+ (1080p)
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 #EXTINF:-1 tvg-id="Dikayaokhota.ru@HD" tvg-logo="https://i.imgur.com/EOue13e.png" group-title="Russia",Russia | Dikaya okhota HD (1080p)
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-id="Dikayarybalka.ru@HD" tvg-logo="https://i.imgur.com/e3BFVgt.png" group-title="Russia",Russia | Dikaya rybalka HD (1080p)
@@ -5132,6 +5138,8 @@ http://stream.mcquack.net/275/index.m3u8
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="Russia",Russia | Доктор (1080p)
 http://31.148.48.15/Doktor/index.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@Russia" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Russia",Russia | DocuBox Russia
+http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
 #EXTINF:-1 tvg-id="DomashnieZhivotnye.ru@SD" tvg-logo="https://i.imgur.com/ISJzQGP.png" group-title="Russia",Russia | Domashnie Zhivotnye (576p)
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Russia",Russia | Domashniy SD (576p)
@@ -5397,8 +5405,8 @@ http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="Russia",Russia | Nashe Novoe Kino (1080p)
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Russia",Russia | National Geographic (576p)
-http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Russia",Russia | National Geographic (1080p)
+http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Russia",Russia | National Geographic Wild (1080p)
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="Russia",Russia | НАУКА (1080p)
@@ -5820,6 +5828,22 @@ https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Usadba.ru@SD" tvg-logo="https://i.imgur.com/mf13haG.png" group-title="Russia",Russia | Usadba (576p)
 http://stream.mcquack.net/211/index.m3u8
+#EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru@HD" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" group-title="Russia",Russia | Velvet. European Movies (1080p)
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" group-title="Russia",Russia | Velvet. Golden Collection (1080p)
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" group-title="Russia",Russia | Velvet. Mentovskiye Serialy (1080p)
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 tvg-id="VelvetScary.ru@HD" tvg-logo="https://antiabuse-container.b-cdn.net/uzh1.png" group-title="Russia",Russia | Velvet. Scary (1080p)
+https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru@HD" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" group-title="Russia",Russia | Velvet. Series Hits (1080p)
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/soviet.png" group-title="Russia",Russia | Velvet. Sovetskoe Kino (1080p)
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-id="VelvetSvaty.ru@HD" tvg-logo="https://interra-cdn-europe1.b-cdn.net/svatyv.png" group-title="Russia",Russia | Velvet. Svaty (1080p)
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru@HD" tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" group-title="Russia",Russia | Velvet. World Series (1080p)
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 tvg-id="Vera24.ru@SD" tvg-logo="https://i.imgur.com/Qer5Lnh.png" group-title="Russia",Russia | Вера 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="Russia",Russia | Vesti FM (720p)
