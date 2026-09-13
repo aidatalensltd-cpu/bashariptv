@@ -2794,6 +2794,9 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 https://stream.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="Indonesia",Indonesia | STV (720p) [Not 24/7]
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id@Surabaya" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg" http-referrer="https://www.suarasurabaya.net/" group-title="Indonesia",Indonesia | Suara Surabaya Visual Radio (720p)
+#EXTVLCOPT:http-referrer=https://www.suarasurabaya.net/
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="Indonesia",Indonesia | Sultra TV (720p) [Not 24/7]
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="Indonesia",Indonesia | Surau TV (720p)
@@ -3541,6 +3544,9 @@ https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
 #EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="International",International | STS International (576p)
 http://178.134.1.158:8081/CTC/index.m3u8
+#EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id@Surabaya" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg" http-referrer="https://www.suarasurabaya.net/" group-title="International",International | Suara Surabaya Visual Radio (720p)
+#EXTVLCOPT:http-referrer=https://www.suarasurabaya.net/
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperyachtTV.mc@SD" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="International",International | Superyacht TV (1080p)
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SVBC.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" group-title="International",International | SVBC Sri Venkateswara Bhakti Channel (1080p)
