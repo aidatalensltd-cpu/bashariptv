@@ -2152,6 +2152,8 @@ http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 #EXTINF:-1 tvg-id="CETV2.cn@SD" tvg-logo="https://i.imgur.com/ZD8XPmw.png" group-title="China",China | CETV-2 (576p)
 http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+#EXTINF:-1 tvg-id="ChaozhouPublicChannel.cn@SD" tvg-logo="https://i.imgur.com/8YIrgB7.png" group-title="China",China | Chaozhou Public Channel
+http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="CHCAction.cn@SD" tvg-logo="https://i.imgur.com/AuiVcyh.png" group-title="China",China | CHC Action (1080p)
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="CHCHomeTheater.cn@SD" tvg-logo="https://i.imgur.com/AwBldBE.png" group-title="China",China | CHC Home Theater (1080p)
@@ -4165,9 +4167,9 @@ http://stream.mcquack.net/295/index.m3u8
 http://stream.mcquack.net/42/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.il@SD" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="Israel",Israel | Channel 9 (Israel) (1080p)
 https://contact.gostreaming.tv/Con-11/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Israel",Israel | Disney Channel (Israel) (576p)
+#EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/3840px-2022_Disney_Channel_logo.svg.png" group-title="Israel",Israel | Disney Channel (Israel) (576p)
 http://str2.iptvhd.ru:8080/disney/index.m3u8
-#EXTINF:-1 tvg-id="FoodChannel.il@SD" tvg-logo="https://i.imgur.com/mpXPmfw.png" group-title="Israel",Israel | Food Channel (1080p)
+#EXTINF:-1 tvg-id="FoodChannel.il@SD" tvg-logo="https://images.open-epg.com/x1723.png" group-title="Israel",Israel | Food Channel (1080p)
 http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
 #EXTINF:-1 tvg-id="GoodLife.il@SD" tvg-logo="https://cdn.epg.one/img2/2686.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Israel",Israel | Good Life (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -4906,6 +4908,8 @@ http://htvint.mada.ps:8889/orient/index.m3u8
 https://htvmada.mada.ps:4443/wattan/index.m3u8
 #EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="Philippines",Philippines | Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Philippines",Philippines | AXN Asia Philippines (576p)
+https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="Philippines",Philippines | Bilyonaryo News Channel (1080p) [Geo-blocked]
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Philippines",Philippines | CCTN 47 (1080p) [Not 24/7]
